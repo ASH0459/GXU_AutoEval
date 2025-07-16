@@ -7,8 +7,8 @@
 // @match        *://jwxt2018.gxu.edu.cn/jwglxt/xspjgl/*
 // @grant        none
 // @license      MIT
-// @downloadURL  https://greasyfork.org/scripts/your-script-id-here/code.user.js
-// @updateURL    https://greasyfork.org/scripts/your-script-id-here/meta.js
+// @downloadURL  https://github.com/ASH0459/GXU_AutoEval/blob/main/%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E8%AF%84%E4%BB%B7%E8%84%9A%E6%9C%AC-2.1.user.js
+// @updateURL    https://github.com/ASH0459/GXU_AutoEval/blob/main/%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E6%95%99%E5%AD%A6%E8%AF%84%E4%BB%B7%E8%84%9A%E6%9C%AC-2.1.user.js
 // ==/UserScript==
 
 (function() {
